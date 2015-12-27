@@ -5,12 +5,13 @@ repo_url: https://github.com/smallgroupnotes/smallgroupnotes.github.io
 
 remote_branch: master
 
-# theme: yeti # no search...
-theme: readthedocs
+theme: yeti # no search...
+# theme: readthedocs # quotes look odd...
 
 pages:
   - Home: index.md
   - Random Emails:
     - Evangelism: random/2013-01-30-evangelism.md
     - Predestination: random/2013-02-04-predestination.md
+    - Cancelled: random/2012-09-10-cancelled.md
 
