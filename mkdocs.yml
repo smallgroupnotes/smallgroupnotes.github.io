@@ -4,7 +4,6 @@ site_description: Small Group Notes
 repo_url: https://github.com/smallgroupnotes/smallgroupnotes.github.io
 
 remote_branch: master
-remote_name: master
 
 # theme: yeti # no search...
 theme: readthedocs
