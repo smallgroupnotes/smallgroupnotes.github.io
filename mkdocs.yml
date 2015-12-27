@@ -1,0 +1,17 @@
+site_name: Small Group Notes
+site_url: http://smallgroupnotes.github.io
+site_description: Small Group Notes
+repo_url: https://github.com/smallgroupnotes/smallgroupnotes.github.io
+
+remote_branch: master
+remote_name: master
+
+# theme: yeti # no search...
+theme: readthedocs
+
+pages:
+  - Home: index.md
+  - Random Emails:
+    - Evangelism: random/2013-01-30-evangelism.md
+    - Predestination: random/2013-02-04-predestination.md
+
