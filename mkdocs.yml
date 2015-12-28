@@ -3,10 +3,13 @@ site_url: http://smallgroupnotes.github.io
 site_description: Small Group Notes
 repo_url: https://github.com/smallgroupnotes/smallgroupnotes.github.io
 
+extra_css:
+  - custom.css
+
 remote_branch: master
 
-theme: yeti # no search...
-# theme: readthedocs # quotes look odd...
+#theme: yeti # no search...
+theme: readthedocs # quotes look odd... - fixed in custom.css
 
 pages:
   - Home: index.md
