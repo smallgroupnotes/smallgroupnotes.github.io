@@ -45,7 +45,7 @@ I think the reason I struggle with a meaningful prayer time is because just sayi
 
 ## Next Week
 
-The plan for next Sunday is to cover I Thess. 5:17 - Pray without ceasing!  In the next week or so, try to think about these questions:
+The plan for next Sunday is to cover 1 Thess. 5:17 - Pray without ceasing!  In the next week or so, try to think about these questions:
 
 * What draws your attention away from being present with Jesus in every moment of your life?
 * Who in your life or what ways can you remind yourself to be present with Jesus throughout your day?
