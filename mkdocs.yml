@@ -11,7 +11,7 @@ theme: yeti # no search...
 pages:
   - Home: index.md
   - Random Emails:
+    - Cancelled: random/2012-09-10-cancelled.md
     - Evangelism: random/2013-01-30-evangelism.md
     - Predestination: random/2013-02-04-predestination.md
-    - Cancelled: random/2012-09-10-cancelled.md
 
