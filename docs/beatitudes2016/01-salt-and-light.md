@@ -1,5 +1,7 @@
 # The Salt and Light Revolution
 
+*01/10/2016*
+
 ## Intro
 
 If we manifest the qualities of the beatitudes, Jesus says we will be salt and light to the world.
