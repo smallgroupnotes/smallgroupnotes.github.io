@@ -42,7 +42,7 @@ A disciple doesn't ask, "How can I use Jesus to my benefit?"  A disciple begins 
 
 The kingdom isn't about crowds - the kingdom is about disciples.
 
-> My prayer for our small group - that people would look at us and say, "Wow - there's a group of people who display the beatitudes"
+> My prayer for our small group: that people would look at us and say, "Wow - there's a group of people who display the beatitudes"
 
 ## The Challenge
 
