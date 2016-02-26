@@ -15,7 +15,8 @@ script:
 after_success:
     # It is kind of silly to clone something that exists locally,
     # but `mkdocs gh-deploy` cannot read GH_TOKEN.
-    # Not sure if these 2 lines are needed?
-    #- git clone "https://${GH_TOKEN}@github.com/${GIT_NAME}/smallgroupnotes.github.io.git" gh-pages
-    #- cd gh-pages
+    # Should maybe make shell script to test for mkdocs.yml before running deploy?
+    - git clone -b master "https://${GH_TOKEN}@github.com/${GIT_NAME}/smallgroupnotes.github.io.git" gh-pages
+    - cd gh-pages
+    - git checkout source
     - mkdocs gh-deploy
