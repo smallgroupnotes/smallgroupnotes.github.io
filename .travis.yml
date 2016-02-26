@@ -6,7 +6,8 @@ before_script:
     - git config --global user.name $GIT_NAME
 
 install:
-    - pip install mkdocs markdown-checklist
+    - pip install mkdocs
+    # - pip install mkdocs markdown-checklist (I don't think markdown-checklist is needed)
 
 script:
     - mkdocs build --clean --verbose
