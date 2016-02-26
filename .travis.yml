@@ -1,0 +1,20 @@
+language: python
+python: '2.7'
+
+before_script:
+    - git config --global user.email $GIT_EMAIL
+    - git config --global user.name $GIT_NAME
+
+install:
+    - pip install mkdocs markdown-checklist
+
+script:
+    - mkdocs build --clean --verbose
+    
+after_success:
+    # It is kind of silly to clone something that exists locally,
+    # but `mkdocs gh-deploy` cannot read GH_TOKEN.
+    # Not sure if these 2 lines are needed?
+    #- git clone "https://${GH_TOKEN}@github.com/${GIT_NAME}/smallgroupnotes.github.io.git" gh-pages
+    #- cd gh-pages
+    - mkdocs gh-deploy
