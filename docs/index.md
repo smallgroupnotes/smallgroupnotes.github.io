@@ -18,7 +18,7 @@ Once you are reading a page under a specific study, there are "Next" and "Previo
 
 ## How do I search for content?
 
-There is a search box at the upper-left corner of the site - just type in a search term and hit enter
+There is a search box at the upper-left corner of the site - just type in a search term and hit enter.
 
 <!-- Right now, searching is not an option - it will hopefully be available soon -->
 
