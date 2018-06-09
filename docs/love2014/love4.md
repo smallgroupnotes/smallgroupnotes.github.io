@@ -112,7 +112,7 @@ The Galatians (like many Christians today) put too much worth on extra things, l
 
 The Galatians (and many Christians today) say “grace plus X equals what really matters."  Sure, we have grace, but we also need this or that to improve our standing with Christ.
 
-In [Galatians 5:6](https://www.biblegateway.com/passage/?search=Galatians+5%3A6&version=NIV, Paul is saying that all of those other things don’t matter.  “The only thing that counts is faith expressing itself through love.”  When you take grace and add anything to it, it is no longer grace.
+In [Galatians 5:6](https://www.biblegateway.com/passage/?search=Galatians+5%3A6&version=NIV), Paul is saying that all of those other things don’t matter.  “The only thing that counts is faith expressing itself through love.”  When you take grace and add anything to it, it is no longer grace.
 
 How can we try to increase our worth to God when it can’t be surpassed?
 
