@@ -9,7 +9,7 @@
 * 2015-03-29 - [Hijabs at the Gym](https://whchurch.org/sermon/hijabs-at-the-gym/)
 * 2017-09-10 - [There is no Them // Part One](https://whchurch.org/sermon/there-is-no-them-part-one/)
 * 2017-09-17 - [There is no Them // Part Two](https://whchurch.org/sermon/there-is-no-them-part-two/)
-* 2018-09-09 - [Getting Under God_s Skin](https://whchurch.org/sermon/getting-under-gods-skin/)
+* 2018-09-09 - [Getting Under God's Skin](https://whchurch.org/sermon/getting-under-gods-skin/)
 * 2018-09-23 - [Be Thou My Vision](https://whchurch.org/sermon/be-thou-my-vision-you-before-me/)
 * 2018-09-30 - [Warfare Hospitality](https://whchurch.org/sermon/warfare-hospitality/)
 * 2018-10-07 - [Lessons in Hospitality](https://whchurch.org/sermon/lessons-in-hospitality/)
