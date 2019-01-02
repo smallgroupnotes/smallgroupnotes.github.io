@@ -13,7 +13,7 @@ google_analytics: ['UA-72657229-1', 'smallgroupnotes.github.io']
 #theme: yeti # no search...
 theme: readthedocs # quotes look odd... - fixed in custom.css
 
-pages:
+nav:
   - Home: index.md
   - Beatitudes 2016:
     - Beatitudes 1a - Salt and Light: beatitudes2016/01-salt-and-light.md
