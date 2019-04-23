@@ -15,6 +15,12 @@ theme: readthedocs # quotes look odd... - fixed in custom.css
 
 nav:
   - Home: index.md
+  - Defense of Faith:
+    - The Imaginary Divide: defense2019/the-imaginary-divide.md
+    - Reason for Believing: defense2019/reason-for-believing.md
+    - Why the Bible?: defense2019/why-the-bible.md
+    - Why God?: defense2019/why-god.md
+    - What is Truth?: defense2019/what-is-truth.md
   - Beatitudes 2016:
     - Beatitudes 1a - Salt and Light: beatitudes2016/01-salt-and-light.md
     - Beatitudes 1b - challenge follow up: beatitudes2016/01-challenge.md
