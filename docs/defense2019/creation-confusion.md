@@ -15,7 +15,7 @@
 * When we want to know what God looks like, we look to the cross
 * The Dogma's of the Christian faith are the creeds
 > Dogma: a principle or set of principles laid down by an authority as incontrovertibly true.
-* Doctrine deals more with demoninations
+* Doctrine deals more with denominations
 * Be a firm center with soft edges.
 	* You can stick to your guns towards the center of the circle but as you progress to the outside of the circles you should be more flexible
 
@@ -51,7 +51,7 @@
 
 ![Creation](/images/Creation.png)
 
-* If Genesis 1 is the description of what the universe is like, there are scientific problems (for example, the stars and moon are not stuck into a fermament above the earth)
+* If Genesis 1 is the description of what the universe is like, there are scientific problems (for example, the stars and moon are not stuck into a firmament above the earth)
 * If the cosmology of Genesis 1 appears to be incorrect, we can look at the story as a literary work
 * Comparing Genesis 1 to other creation stories of the same time period can help us understand better
 
@@ -74,7 +74,7 @@
 
 ## Conclusion
 * The good news of Genesis 1 is that the God we serve has no rivals!
-	* This sets Genesis 1 apart from all other creation storeis
+	* This sets Genesis 1 apart from all other creation stories
 * God can create new beginnings from the chaos
 * Science and faith do not have to be rivals
 	* God created science, and if he has no rivals, wouldn't he be okay with us asking questions about it?
