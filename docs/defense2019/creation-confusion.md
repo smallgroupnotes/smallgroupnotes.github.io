@@ -8,7 +8,9 @@
 > Litmus Test: a test in which a single factor is decisive
 
 ## Jesus, Dogma, Doctrine, Opinion
+
 ![Circles](/images/Circles.png)
+
 * Not all beliefs are equally important
 * When we want to know what God looks like, we look to the cross
 * The Dogma's of the Christian faith are the creeds
@@ -46,7 +48,9 @@
 
 ## Interpreting Genesis 1
 * If Genesis 1 is not telling us how or why God created the world, what is it telling us?
+
 ![Creation](/images/Creation.png)
+
 * If Genesis 1 is the description of what the universe is like, there are scientific problems (for example, the stars and moon are not stuck into a fermament above the earth)
 * If the cosmology of Genesis 1 appears to be incorrect, we can look at the story as a literary work
 * Comparing Genesis 1 to other creation stories of the same time period can help us understand better
