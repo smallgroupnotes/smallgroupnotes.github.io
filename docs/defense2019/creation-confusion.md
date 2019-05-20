@@ -62,9 +62,9 @@
 	* Sequence similarities
 	* Cosmological similarities
 * Differences:
-	* Creation by divine word versus divine word
+	* Creation by divine word versus divine war
 	* The singularity of God's rule
-	* Humanities place in the narrative
+	* Humanity's place in the narrative
 	* The concept of the Sabbath
 * The message of Genesis 1 becomes clear when we stop trying to look at it as a scientific document
 * Genesis 1 is a theological declaration of who our God is
