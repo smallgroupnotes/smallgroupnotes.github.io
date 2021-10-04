@@ -15,7 +15,9 @@ theme: readthedocs # quotes look odd... - fixed in custom.css
 
 nav:
   - Home: index.md
-  - Defense of Faith:
+  - Beautiful Outlaw 2021:
+    - Mary Magdalene: outlaw2021/mary-magdalene.md
+  - Defense of Faith 2019:
     - The Imaginary Divide: defense2019/the-imaginary-divide.md
     - Reason for Believing: defense2019/reason-for-believing.md
     - Why the Bible?: defense2019/why-the-bible.md
