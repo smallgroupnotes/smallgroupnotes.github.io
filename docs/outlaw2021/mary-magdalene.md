@@ -1,5 +1,6 @@
 # Mary Magdalene
 
+*10/3/2021*
 
 
 She is mentioned 12 times in the New Testament—making her the second most mentioned woman, after the Mary, Jesus' mother
