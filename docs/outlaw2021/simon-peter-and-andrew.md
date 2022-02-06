@@ -4,7 +4,7 @@
 ## Question for the night: Is Jesus Playful?
 
 ### Chronology notes
-The gospels are not clear on the exact chronology of the stories of when Jesus met Peter and Andrew. 
+* The gospels are not clear on the exact chronology of the stories of when Jesus met Peter and Andrew. 
 * Matthew and Mark both say Jesus was walking along the Sea of Galilee when he called Peter and Andrew and later called James and John (sons of Zebedee).
 * Luke says Jesus was teaching by the sea when he saw all 4 fishermen working together.
 * John does not mention the men fishing – only that Andrew (Peter’s brother) met Jesus through John the Baptist, and then Andrew introduced Peter to Jesus.
