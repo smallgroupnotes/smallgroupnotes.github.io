@@ -3,9 +3,9 @@
 
 ## Passages
 
-[Matthew 9:1-8](https://www.biblegateway.com/passage/?search=Matthew+9%3A1-8&version=NLT)
-[Mark 2:1-12](https://www.biblegateway.com/passage/?search=Mark+2%3A1-12&version=NLT)
-[Luke 5:17-26](https://www.biblegateway.com/passage/?search=Luke+5%3A17-26&version=NLT)
+* [Matthew 9:1-8](https://www.biblegateway.com/passage/?search=Matthew+9%3A1-8&version=NLT)
+* [Mark 2:1-12](https://www.biblegateway.com/passage/?search=Mark+2%3A1-12&version=NLT)
+* [Luke 5:17-26](https://www.biblegateway.com/passage/?search=Luke+5%3A17-26&version=NLT)
 
 ## For the kids
 
