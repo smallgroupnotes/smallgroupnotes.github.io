@@ -15,7 +15,7 @@ theme: readthedocs # quotes look odd... - fixed in custom.css
 
 nav:
   - Home: index.md
-  - Beautiful Outlaw 2021:
+  - The Chosen 2021:
     - Mary Magdalene: outlaw2021/mary-magdalene.md
     - Simon Peter and Andrew: outlaw2021/simon-peter-and-andrew.md
     - Water into Wine: outlaw2021/water-into-wine.md
@@ -25,6 +25,7 @@ nav:
     - The paralyzed man: outlaw2021/paralytic.md
     - Nicodemus: outlaw2021/nicodemus.md
     - Matthew: outlaw2021/matthew.md
+    - Jesus Heals Many: outlaw2021/healsmany.md
   - Defense of Faith 2019:
     - The Imaginary Divide: defense2019/the-imaginary-divide.md
     - Reason for Believing: defense2019/reason-for-believing.md
