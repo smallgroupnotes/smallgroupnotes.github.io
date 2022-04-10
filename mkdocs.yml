@@ -16,17 +16,17 @@ theme: readthedocs # quotes look odd... - fixed in custom.css
 nav:
   - Home: index.md
   - The Chosen 2021:
-    - Mary Magdalene: outlaw2021/mary-magdalene.md
-    - Simon Peter and Andrew: outlaw2021/simon-peter-and-andrew.md
-    - Water into Wine: outlaw2021/water-into-wine.md
-    - Peter's Family: outlaw2021/peters-family.md
-    - Jesus heals the leper: outlaw2021/jesus-heals-the-leper.md
-    - Nathaniel: outlaw2021/nathaniel.md
-    - The paralyzed man: outlaw2021/paralytic.md
-    - Nicodemus: outlaw2021/nicodemus.md
-    - Matthew: outlaw2021/matthew.md
-    - Jesus Heals Many: outlaw2021/healsmany.md
-    - Remembrance: outlaw2021/remembrance.md
+    - Mary Magdalene: chosen2021/mary-magdalene.md
+    - Simon Peter and Andrew: chosen2021/simon-peter-and-andrew.md
+    - Water into Wine: chosen2021/water-into-wine.md
+    - Peter's Family: chosen2021/peters-family.md
+    - Jesus heals the leper: chosen2021/jesus-heals-the-leper.md
+    - Nathaniel: chosen2021/nathaniel.md
+    - The paralyzed man: chosen2021/paralytic.md
+    - Nicodemus: chosen2021/nicodemus.md
+    - Matthew: chosen2021/matthew.md
+    - Jesus Heals Many: chosen2021/healsmany.md
+    - Remembrance: chosen2021/remembrance.md
   - Defense of Faith 2019:
     - The Imaginary Divide: defense2019/the-imaginary-divide.md
     - Reason for Believing: defense2019/reason-for-believing.md
