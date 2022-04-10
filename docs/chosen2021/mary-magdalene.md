@@ -40,4 +40,4 @@ Luke 8:1-3
 
 Soon afterward he went on through cities and villages, proclaiming and bringing the good news of the kingdom of God. And the twelve were with him, and also some women who had been healed of diseases and sicknesses: Mary, called Magdalene, whom Jesus delivered from multiple problems, and Joanna, the wife of Chuza, Herod's household manager, and Susanna, and many others, who provided for them out of their means.
 
-Watch Mary Magdalene from The Chosen
+Watch "Mary Magdalene" (Episode 1 on Plex) from The Chosen

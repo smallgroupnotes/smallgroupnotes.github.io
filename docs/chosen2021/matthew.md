@@ -13,6 +13,7 @@
 ## For the kids
 * Read Matthew 9:9
 * Tax collectors were hated - they were allowed to collect more taxes than was required and keep the rest of the money
+* Watch "Matthew" (Episode 9 on Plex) from The Chosen
 
 ### After the video
 
@@ -21,4 +22,5 @@
 
 ### After the next video (Dinner Party)
 * Read Matthew 9:10-13
+* Watch "Dinner Party" (Episode 10 on Plex) from The Chosen
 * How can the people that the world calls "scum" ever learn about Jesus if everyone avoids them?

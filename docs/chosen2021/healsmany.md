@@ -40,6 +40,7 @@
 * We will see a large group of people.
 * We will see Jesus' disciples setting up camp, and Jesus' mom, Mary comes
 * The disciples have a bit of an argument about Matthew
+* Watch "Jesus Heals Many" (Episode 13 on Plex) from The Chosen
 
 #### Watch Video
 

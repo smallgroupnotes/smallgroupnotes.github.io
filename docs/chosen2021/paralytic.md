@@ -9,13 +9,15 @@
 
 ## For the kids
 
-* Read Luke 5:17-26
+* Read [Luke 5:17-26](https://www.biblegateway.com/passage/?search=Luke+5%3A17-26&version=NLT)
 
 ### Video description:
 
 * The video picks up with Jesus healing the man with leprosy – someone who saw this had a friend who needed healing.
 * The video introduces some new people (it will show their names) that we haven’t met yet:  Matthew, the pharisees, and Nicodemus (a pharisee).
 * Jesus will go to the house of Zebedee (James and John’s dad) and more and more people come to hear him teach.
+
+* Watch "The Paralytic" (Episode 5 on Plex) from The Chosen
 
 ### After the video
 

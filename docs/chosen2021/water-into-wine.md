@@ -18,3 +18,8 @@
 * Jesus is the true master of ceremonies, the Lord of the Banquet
 * Yes, there will be suffering and sacrifice, but these will be the means to an end: An eternal festival
 
+## With the Kids
+* Read John 2:1-12
+* Do you think Jesus had fun?
+* If he was here with us, do you think he would play with us?
+* Watch "Water into Wine" (Episode 3 on Plex) from The Chosen

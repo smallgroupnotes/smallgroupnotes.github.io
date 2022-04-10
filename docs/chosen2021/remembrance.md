@@ -5,6 +5,7 @@
 ### Emily with the kids
 
 * Sin & Forgiveness
+* No video for the kids this week.
 
 ### Adults - intro
 
@@ -22,7 +23,7 @@
 * Intro before video
 	* The original reason I didn't include this video in my list of stories to study is because it is not in the Bible
 	* When preparing for tonight I realized that the reality is that everyone struggles with sin (just like the verses above) so while this story may not be found in the Bible, backsliding is a familiar story that depicts what real people struggle with.
-* Show the video
+* Watch "Mary Magdalene Relapse 1" (Episode 14 on Plex) from The Chosen
 
 ### Sin is a big deal
 
@@ -41,12 +42,12 @@
 ### Video: Matthew and Simon find Mary
 
 * When we have been forgiven of so much, how can we not be joyful?
-* Show the video
+* Watch "Mary Magdalene Relapse 2" (Episode 15 on Plex) from The Chosen
 * Mary realized her sin was a big deal - but she also hadn't clicked for her yet that God's forgiveness and grace is bigger.
 
 ### Video: Mary is forgiven
 
-* Show the video
+* Watch "Mary Magdalene Relapse 3" (Episode 16 on Plex) from The Chosen
 * "Well, that's not much of a redemption if it can be lost in a day, is it?"
 * "I just can't live up to it"... "Well, that's true - but you don't have to.  I just want your heart."
 

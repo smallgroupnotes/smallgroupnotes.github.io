@@ -6,7 +6,9 @@
 * [John 19:38-39](https://www.biblegateway.com/passage/?search=John+19%3A38-39&version=NLT)
 
 ## For the kids
-Read John 3:1-2
+* Read [John 3:1-21](https://www.biblegateway.com/passage/?search=John+3%3A1-21&version=NLT)
+
+* Watch "Nicodemus" (Episode 8 on Plex) from The Chosen
 
 ### After the video
 * Do you think Nicodemus loved Jesus and believed in him?

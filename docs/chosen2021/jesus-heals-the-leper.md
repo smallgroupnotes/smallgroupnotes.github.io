@@ -22,6 +22,9 @@
 
 * Read Mark 1:40-44
 
+#### The video
+* Watch "The Leper" (Episode 4 on Plex) from The Chosen
+
 #### Thoughts
 
 * Before Jesus healed the man with leprosy, he reached out and touched him.  What would that be like - if you couldn't ever be touched again, and the kindest man you have ever seen reached out and touched you?

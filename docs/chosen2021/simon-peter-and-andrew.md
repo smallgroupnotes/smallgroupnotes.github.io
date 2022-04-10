@@ -36,6 +36,7 @@
 ## For the kids:
 * Reminder that Simon = Peter
 * See if you can count how many times Jesus smiled or laughed in the clip.
+* Watch "Follow Me" (Episode 2 on Plex) from The Chosen
 * After the clip, read Luke 5:1-11
 * Do you think Jesus smiled and laughed when he filled their boat with fish?
 * Did you notice Mary Magdalene?  She became a follower of Jesus after he healed her.
