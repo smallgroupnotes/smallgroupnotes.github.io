@@ -16,10 +16,15 @@
 * God loves you. He doesn't care what you have done.  He is willing to spend time to personally reach out to you.
 
 > There's no shadow You won't light up
+> 
 > Mountain You won't climb up
+> 
 > Coming after me
+> 
 > There's no wall You won't kick down
+> 
 > Lie You won't tear down
+> 
 > Coming after me
 
 ## Study
